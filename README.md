@@ -17,7 +17,7 @@ Le projet est structuré comme suit :
 
 **Modèle de Régression Linéaire multiple :** Nous entraînerons un modèle de régression linéaire en utilisant les autres variables pour prédire les valeurs manquantes de la variable cible.
 
-**Validation du Modèle :** Nous évaluerons la faisabilité de la régression linéaire en utilisant plusieurs mesures de performance.
+**Validation du Modèle :** Nous évaluerons la faisabilité de la régression linéaire en utilisant plusieurs mesures de performance.       
 - Le R2
 - La normalité des résidus
 - L'homoscédasticité de la variance
@@ -36,18 +36,18 @@ matplotlib
 seaborn     
 statsmodels      
 
-Structure des Fichiers
+### Structure des Fichiers
 
-├── Regression_multiple.ipynb
-├── Billets_banque.csv
-└── README.md
+├── Regression_multiple.ipynb     
+├── Billets_banque.csv     
+└── README.md      
 
-Le dossier "data" contient le fichier CSV du jeu de données avec la variable cible manquante.
-Le fichier Regression_multiple.ipynb est un cahier Jupyter contenant tout le code et les analyses du projet.
-Le fichier README.md est le présent document, fournissant une description détaillée du projet.
+Le dossier "data" contient le fichier CSV du jeu de données avec la variable cible manquante.     
+Le fichier Regression_multiple.ipynb est un cahier Jupyter contenant tout le code et les analyses du projet.       
+Le fichier README.md est le présent document, fournissant une description détaillée du projet.      
 
 ### Conclusion
 Ce projet de Machine Learning nous permettra de créer un modèle d'imputation des données manquantes pour une variable en utilisant la régression linéaire.     
-En validant la faisabilité de la régression linéaire et en sélectionnant les variables pertinentes à l'aide de la régression backward, nous pourrons obtenir un modèle précis et fiable pour l'imputation des données manquantes dans le jeu de données.
+En validant la faisabilité de la régression linéaire et en sélectionnant les variables pertinentes à l'aide de la régression backward, nous pourrons obtenir un modèle précis et fiable pour l'imputation des données manquantes dans le jeu de données.       
 
 Ce projet fait partie de la formation data-analyst de Openclassrooms & ENSAE (certificat bac+4)
