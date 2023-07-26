@@ -27,7 +27,7 @@ Le projet est structuré comme suit :
 **Régression Backward :** Enfin, nous réaliserons une régression backward pour sélectionner les variables les plus pertinentes pour notre modèle d'imputation.
 
 ### Prérequis
-Nous travaillons dans un environnement composé de:
+Nous travaillons dans un environnement composé de:      
 Python 3.x    
 pandas      
 numpy    
