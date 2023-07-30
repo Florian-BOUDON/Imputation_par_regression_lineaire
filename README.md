@@ -1,8 +1,8 @@
 # Imputation par régression linéaire
 
-Ce projet de Machine Learning vise à créer un modèle d'imputation des données manquantes pour une seule variable en utilisant la méthode de régression linéaire.    
+Ce projet de machine learning vise à créer un modèle d'imputation des données manquantes pour une seule variable en utilisant la méthode de régression linéaire.    
 Nous remplacerons les données manquantes par les prédictions d'un modèle de régression linéaire entraîné sur les autres variables du jeu de données.     
-La faisabilité de la régression linéaire sera validée en utilisant plusieurs mesures de performance telles que R2, la normalité des résidus, l'homoscédasticité, l'étude des points levier et la distance de Cook.       
+La faisabilité de la régression linéaire sera validée en utilisant plusieurs mesures de performance telles que R2, la normalité des résidus, l'homoscédasticité, l'étude des points leviers et la distance de Cook.       
 Enfin, nous réaliserons une régression backward pour sélectionner les variables les plus pertinentes pour notre modèle d'imputation.
 
 ### Description du projet
@@ -25,7 +25,7 @@ Nous évaluerons la faisabilité de la régression linéaire en utilisant plusie
 - Le R2
 - La normalité des résidus
 - L'homoscédasticité de la variance
-- Les points levier (identifier les observations influentes)
+- Les points leviers (identifier les observations influentes)
 - La distance de Cook (identifier les observations influentes)
 
 **Régression backward**        
@@ -56,4 +56,4 @@ Ce projet de Machine Learning nous permettra de créer un modèle d'imputation d
 En validant la faisabilité de la régression linéaire et en sélectionnant les variables pertinentes à l'aide de la régression backward, nous pourrons obtenir un modèle précis et fiable pour l'imputation des données manquantes dans le jeu de données.       
 
 ********
-Ce projet fait partie de la formation data-analyst de ENSAE Paris & Openclassrooms (certificat bac+4).
+Ce projet fait partie de la formation data-analyst de l'ENSAE Paris & Openclassrooms (certificat bac+4).
