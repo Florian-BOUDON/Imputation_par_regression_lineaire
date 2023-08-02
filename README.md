@@ -15,7 +15,7 @@ Le projet est structuré comme suit :
 Dans cette première étape, nous chargerons le jeu de données et effectuerons une analyse exploratoire pour identifier les variables avec des données manquantes et comprendre la distribution des variables.      
 
 **Prétraitement des données**       
-Nous effectuerons des opérations de nettoyage et de prétraitement sur les données. Cela peut inclure la gestion des valeurs manquantes dans les autres variables et la préparation des données pour la régression linéaire.     
+Nous effectuerons des opérations de nettoyage et de pré-traitement sur les données. Cela peut inclure la gestion des valeurs manquantes dans les autres variables et la préparation des données pour la régression linéaire.     
 
 **Modèle de régression linéaire multiple**       
 Nous entraînerons un modèle de régression linéaire en utilisant les autres variables pour prédire les valeurs manquantes de la variable cible.       
